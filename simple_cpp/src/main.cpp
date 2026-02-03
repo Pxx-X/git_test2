@@ -7,11 +7,9 @@ using namespace std;
  * @param b Right operand.
  * @return Sum of a and b.
  */
-int add(int a, int b) {
-    return a + b;
-}
+int add(int a, int b) { return a + b; }
 
 int main() {
-    cout << "Hello from user1! 2 + 3 = " << add(2, 3) << '\n';
+    cout << "Hello from user1! 2 + 4 = " << add(2, 4) << '\n';
     return 0;
 }
