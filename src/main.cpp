@@ -10,6 +10,6 @@ using namespace std;
 int add(int a, int b) { return a + b; }
 
 int main() {
-    cout << "Hello from user1! 2 + 4 = " << add(2, 4) << '\n';
-    return 0;
+  cout << "Hello from user1! 22 + 4 = " << add(22, 4) << '\n';
+  return 0;
 }
